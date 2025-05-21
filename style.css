@@ -1,0 +1,25 @@
+body {
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    color: #1F1F1F;
+}
+.container {
+    max-width: 1130px;
+    margin: 0 auto;
+}
+
+.nav-recidivez-buttons{
+    display: flex;
+    justify-content: space-between;
+}
+.buttons{
+    background: none;
+    color:#ffffff;
+    margin-left: 539px;
+    padding-right: 80px;
+}
+.back{
+    background-image:;
+    width: 1280px;
+    height: 776px;
+}
